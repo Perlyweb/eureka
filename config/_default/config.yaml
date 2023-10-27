@@ -1,4 +1,4 @@
-baseURL: https://perlyweb.github.io/eureka/
+baseURL: /
 title: Nobody
 
 # Uncomment when not installing with Hugo Modules
