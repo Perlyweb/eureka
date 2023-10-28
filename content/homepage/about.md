@@ -2,11 +2,11 @@
 title: Satoshi Blogamoto
 draft: false
 role: Content creator
-avatar: images/icon.png
+avatar: https://images.unsplash.com/photo-1529946825183-536c6317f60e?auto=format&fit=crop&q=80&w=1963&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 bio: Content creator by the keyboard
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: Spider
+  url: https://duckduckgo.com/?q=spider&t=brave&iax=images&ia=images
 social:
   - icon: envelope
     iconPack: fas

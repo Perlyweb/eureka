@@ -9,7 +9,7 @@ categories:
 series:
 date: '2023-03-31T13:11:22+08:00'
 lastmod: '2023-03-31T13:11:22+08:00'
-featuredImage:
+featuredImage: https://www.datocms-assets.com/56652/1692635083-tomer-3.png?auto=format&dpr=0.86&q=75&w=814
 draft: false
 ---
 

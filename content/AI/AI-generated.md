@@ -9,7 +9,7 @@ categories:
 series:
 date: '2023-03-31T13:11:22+08:00'
 lastmod: '2023-03-31T13:11:22+08:00'
-featuredImage:
+featuredImage: https://images.unsplash.com/photo-1684369585053-2b35888b3ae8?auto=format&fit=crop&q=80&w=1928&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 draft: false
 ---
 
