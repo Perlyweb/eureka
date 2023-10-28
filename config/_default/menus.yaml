@@ -8,6 +8,6 @@ main:
   - name: Docs
     url: /docs/
     weight: 3
-  - name: Test
-    url: /test/
+  - name: AI
+    url: /AI/
     weight: 4  
