@@ -1,7 +1,18 @@
 ---
 title: AI markdown generation
----
 
+description:
+toc: true
+authors:
+  - Satoshi
+tags:
+categories:
+series:
+date: '2023-03-31T13:11:22+08:00'
+lastmod: '2023-03-31T13:11:22+08:00'
+featuredImage: https://images.unsplash.com/photo-1588287055455-9fb0ca7a2d02?auto=format&fit=crop&q=80&w=1935&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+draft: false
+---
 Question:
 
 Could you please write the above in Markdown?

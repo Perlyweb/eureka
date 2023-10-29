@@ -1,7 +1,7 @@
 ---
-title: Example Author
-role: Example Role
-avatar: images/icon.png
+title: Satoshi Blogamoto
+role: Content creator
+avatar: https://images.unsplash.com/photo-1529946825183-536c6317f60e?auto=format&fit=crop&q=80&w=1963&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Example Organization
