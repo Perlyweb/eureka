@@ -1,4 +1,4 @@
 ---
-title: Docs
+title: Books
 layout: doc-list
 ---
