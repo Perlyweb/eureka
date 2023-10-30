@@ -2,7 +2,7 @@
 title: Pages
 draft: false
 # Section you want to display
-section: posts
+section: notes
 # Pages count
 count: 5
 # Options: card, plain and masonry.
