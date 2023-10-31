@@ -19,7 +19,7 @@ This is a simple Mermaid dagram depicting a 2 out of 3 Bitcoin Multisig wallet.
 This blog post is the first in a series where we explore multisig wallet setups in more detail. 
 
 <div class="mermaid">
- graph LR
+ graph TD
     A((Participant 1)) -- Public Key --> B{Bitcoin Address 1}
     A --> C((Participant 2)) 
     A --> D((Participant 3)) 
