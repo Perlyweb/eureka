@@ -14,3 +14,6 @@ main:
   - name: Notes
     url: /notes/
     weight: 5
+  - name: Web
+    url: /web-development/
+    weight: 6
