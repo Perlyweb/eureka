@@ -13,10 +13,11 @@ featuredImage: https://aprendizcripto.com/wp-content/uploads/2022/03/Utxo-Bitcoi
 draft: false
 categories: ["Bitcoin"]
 tags: ["Bitcoin"]
+enableComment: true
 ---
 # Bitcoin Transaction
 
-    participant Satishi as Satoshi
+    participant Satoshi as Satoshi
     participant Hal as Hal
     participant Blockchain as Blockchain 
 
