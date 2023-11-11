@@ -1,11 +1,11 @@
 ---
 title: AI-generated Hugo Themes
 description:
-toc: true
+
 authors:
   - Satoshi
-categories: ["AI" , "Web"]
-tags: ["AI" "Mermaid"]
+tags: ["AI"]
+categories: ["AI"]
 series:
 date: '2023-03-31T13:11:22+08:00'
 lastmod: '2023-03-31T13:11:22+08:00'

@@ -1,8 +1,7 @@
-
 ---
 title: AI-Hugo Themes
 description:
-toc: true
+
 authors:
   - Satoshi
 tags:
